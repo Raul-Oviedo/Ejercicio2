@@ -38,11 +38,7 @@
 			<artifactId>apx-dto</artifactId>
 			<version>[0.0, )</version>
 		</dependency>
-		<dependency>
-			<groupId>com.bbva.vtfu.dto.pagination</groupId>
-			<artifactId>VTFUCSU1</artifactId>
-			<version>0.0.1</version>
-		</dependency>
+		
 	</dependencies>
 	<build>
 		<finalName>${project.artifactId}</finalName>
