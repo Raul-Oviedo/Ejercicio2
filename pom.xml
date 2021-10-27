@@ -29,10 +29,7 @@
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-core-asl</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-mapper-asl</artifactId>
-		</dependency>
+		
 		<dependency>
 			<groupId>com.bbva.apx.dto</groupId>
 			<artifactId>apx-dto</artifactId>
